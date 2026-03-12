@@ -57,13 +57,10 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickhauck0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickhauck0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhauck0&layout=compact&hide_border=true&title_color=8A2BE2&text_color=483D8B&bg_color=F0F8FF" />
 </div>
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrickhauck0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
