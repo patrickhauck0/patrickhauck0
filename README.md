@@ -47,7 +47,7 @@
 #### 🔧 Testes, Versionamento & Metodologias
 | Categoria | Ferramenta / Metodologia | Nível |
 | :--- | :--- | :--- |
-| **Versionamento** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo" /> Git / GitHub | Avançado |
+| **Versionamento** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo" /> Git / GitHub | ⭐⭐⭐ |
 | **Testes** | 🧪 Maestro Studio | ⭐⭐⭐ |
 | **Metodologias** | 🔄 Scrum / Kanban | Prática diária |
 | **IA para Dev** | 🤖 Copilot, Gemini, Antigravity | Prática diária |
