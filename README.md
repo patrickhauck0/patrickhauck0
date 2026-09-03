@@ -1,4 +1,4 @@
-### Nmy stranger, I'm Hauck 👋
+### Hey stranger, I'm Hauck 👋
 
 Software engineer building intelligent systems, LLM-powered applications, and the connectivity layer that lets models interact with tools, databases, and real-world workflows.
 
@@ -7,7 +7,7 @@ The work I'd point at first is my research on agentic software generation:
 
 Lately I've been focusing on MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation) and practical AI-driven products.
 
-**Working with:** JavaScript / TypeScript · Node.js · PostgreSQL · React · REST APIs  
+**Working with:** JavaScript / TypeScript · Node.js · PostgreSQL · React · REST APIs · Python  
 **Interested in:** Model Context Protocol (MCP), agentic architectures, LLM orchestration & developer tooling
 
 [Portfolio](https://portfolio-phds.vercel.app/) · [LinkedIn](https://linkedin.com/in/patrick-hauck-4672a2200)
